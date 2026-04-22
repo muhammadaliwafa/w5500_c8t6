@@ -1,4 +1,0 @@
-../Core/Src/crcFunc.c:12:10:HW_CRC_Calculate	24	static
-../Core/Src/crcFunc.c:29:10:SW_CRC_Calculate	32	static
-../Core/Src/crcFunc.c:56:10:crc32_w25q	1080	static
-../Core/Src/crcFunc.c:115:9:verifikasi	24	static
