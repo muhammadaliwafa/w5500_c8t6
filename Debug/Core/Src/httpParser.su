@@ -1,0 +1,11 @@
+../Core/Src/httpParser.c:29:6:unescape_http_url	32	static
+../Core/Src/httpParser.c:47:6:make_http_response_head	40	static
+../Core/Src/httpParser.c:114:6:find_http_uri_type	24	static
+../Core/Src/httpParser.c:168:6:parse_http_request	32	static
+../Core/Src/httpParser.c:276:11:get_http_param_value	48	static
+../Core/Src/httpParser.c:350:9:get_http_uri_name	24	static
+../Core/Src/httpParser.c:374:6:inet_addr_	56	static
+../Core/Src/httpParser.c:400:10:ATOI	32	static
+../Core/Src/httpParser.c:421:6:mid	40	static
+../Core/Src/httpParser.c:442:13:replacetochar	24	static
+../Core/Src/httpParser.c:460:16:C2D	16	static
